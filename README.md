@@ -1,10 +1,10 @@
-# 📚 Practicing Versioning
+# Practicing Versioning
 
 Este repositório reúne exercícios e práticas realizados durante o curso de Git e GitHub ministrado pelo **André Lacono**.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 O objetivo deste projeto é consolidar os conceitos fundamentais de **controle de versão** com Git, incluindo:
 
@@ -16,20 +16,20 @@ O objetivo deste projeto é consolidar os conceitos fundamentais de **controle d
 
 ---
 
-## 🚀 Conteúdo
+## Conteúdo
 
 Aqui você encontrará diversos arquivos e exemplos que mostram a evolução do aprendizado prático em versionamento de código.
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Git
 - GitHub
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Neto Accioly**  
 [LinkedIn](https://www.linkedin.com/in/lindemir-accioly-neto-/)  
