@@ -1,6 +1,7 @@
 # Practicing Versioning
 
 Este repositório reúne exercícios e práticas realizados durante o curso de Git e GitHub ministrado pelo **André Lacono**.
+No meio do README tem dicas valiosas da professora Rafaella Ballerini que guardei aqui. 
 
 ---
 
