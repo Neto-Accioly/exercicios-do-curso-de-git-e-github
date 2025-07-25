@@ -29,7 +29,7 @@ Aqui você encontrará diversos arquivos e exemplos que mostram a evolução do 
 
 ---
 
-#Vídeos e dicas valiosas da professora Rafaella Ballerini:
+# Vídeos e dicas valiosas da professora Rafaella Ballerini:
 
 ## Como usar o Git e Github na prática
  
